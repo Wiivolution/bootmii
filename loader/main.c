@@ -254,7 +254,7 @@ void *_main(void *base)
 	gecko_puts(bootmii_version);
 	gecko_puts("\n");
 
-	gecko_puts("Copyright (C) 2008-2010 Team Twiizers.\n");
+	gecko_puts("Copyright (C) 2008-2010 Team Twiizers, 2026+ Wiivolution\n");
 	gecko_puts("Licensed under the GNU GPL version 2.\n");
 	gecko_puts("Modified!. Build by GCC " __VERSION__ " on " __TIMESTAMP__"\n");
 
